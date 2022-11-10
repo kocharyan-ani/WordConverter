@@ -1,0 +1,33 @@
+.
+...
+zero.
+one Apple.
+two.
+No number text...
+Two billion.
+One billion one million one thousand one.
+One thousand one million.
+One million one billion.
+Three thousand.
+Five thousand apples.
+Seven million.
+Stars are one billion in the sky.
+.one.two..three.
+Four hundred trees.
+Five hundred.
+Six hundred and seven.
+Eight hundred and thirty-four.
+Nine hundred and fourteen cars.
+Fifty seven.
+
+three hundred and forty-two.
+four thousand five hundred and sixty-seven.
+five thousand five hundred.
+sixty-seven thousand.
+ninety-eight thousand seven hundred and forty-five.
+thirty-four thousand two hundred and thirty.
+eight hundred and seventy-three thousand one hundred and twenty.
+seven million three hundred and forty thousand two hundred.
+four million five hundred and sixty-seven thousand ninety.
+ninety-two million thirty-one.
+one billion ten million twenty-three.
